@@ -11,7 +11,7 @@ I - Prothèse utilisée
    	 *Les prothèses sur ce site sont destinées aux personne amputées, et se distinguen
 	 par son prix très bas.
 	 Les modèles 3D sont développés par des volontaires et sont mis à disposition
-	 gratuitement.
+	 gratuitement.  
 
      	 *Les seuls frais à payer sont donc le prix des pièces non imprimables en 3D
 	 (élastiques, embouts en caoutchouc pour les doigts etc...).  
