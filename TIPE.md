@@ -4,6 +4,7 @@ Biblio prothèse
 I - Prothèse utilisée
 
   1) Disponibilité et détails techniques
+  ---------------------------------------
 
          *Cette prothèse est disponible suivant ce lien :
 
@@ -24,6 +25,7 @@ I - Prothèse utilisée
 	 imprimante 3D, le prix du plastique uniquement).
 
    2) Protocole de construction
+   -----------------------------
 
      	   *Imprimer les pièces en 3D de ce lien :
 	   https://www.thingiverse.com/thing:4056253/files
