@@ -1,7 +1,5 @@
-Biblio prothèse
-================
-
 I - Prothèse utilisée
+=====================
 
   1) Disponibilité et détails techniques
   ---------------------------------------
@@ -37,6 +35,7 @@ I - Prothèse utilisée
 
 
 II - Détail de l'expérience
+===========================
 
    1)
      
