@@ -1,8 +1,7 @@
 I - Prothèse utilisée
 =====================
 
-1) Disponibilité et détails techniques
----------------------------------------
+## 1) Disponibilité et détails techniques
 
 ### a)eFLNKGNGKSLMNGKM
 
