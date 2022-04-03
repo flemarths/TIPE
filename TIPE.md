@@ -3,8 +3,6 @@ I - Prothèse utilisée
 
 ## 1) Disponibilité et détails techniques
 
-### a)eFLNKGNGKSLMNGKM
-
   * Cette prothèse est disponible suivant ce lien :
 (http://hub.e-nable.org/s/e-nable-devices/wiki/page/view?title=e-NABLE+Phoenix+Hand+v3)
 
@@ -24,12 +22,11 @@ https://shop3duniverse.com/collections/3d-printable-kits/products/phoenix-hand-b
 
 ## 2) Protocole de construction
 
-  * Imprimer les pièces en 3D de ce lien :
-https://www.thingiverse.com/thing:4056253/files
+  * Imprimer les pièces en 3D de ce [lien](https://www.thingiverse.com/thing:4056253/files)
 
   * Commander le kit cité précédement
 	   
-  *Suivre les instruction de cette [vidéo](https://www.youtube.com/watch?v=CXoVSTgzyec)
+  * Suivre les instruction de cette [vidéo](https://www.youtube.com/watch?v=CXoVSTgzyec)
 
 
 # II - Détail de l'expérience
