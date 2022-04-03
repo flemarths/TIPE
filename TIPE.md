@@ -6,7 +6,7 @@ I - Prothèse utilisée
 ### a)eFLNKGNGKSLMNGKM
 
   * Cette prothèse est disponible suivant ce lien :
-[tot](http://hub.e-nable.org/s/e-nable-devices/wiki/page/view?title=e-NABLE+Phoenix+Hand+v3)
+(http://hub.e-nable.org/s/e-nable-devices/wiki/page/view?title=e-NABLE+Phoenix+Hand+v3)
 
   * Les prothèses sur ce site sont destinées aux personne amputées,
   et se distingue par son prix très bas. Les modèles 3D sont développés par
@@ -22,20 +22,19 @@ https://shop3duniverse.com/collections/3d-printable-kits/products/phoenix-hand-b
   * Il faut ajouter à cela le prix de l'impression (ou si l'on possède déjà une
   imprimante 3D, le prix du plastique uniquement).
 
-2) Protocole de construction
------------------------------
+## 2) Protocole de construction
 
-     	   *Imprimer les pièces en 3D de ce lien :
-	   https://www.thingiverse.com/thing:4056253/files
+  * Imprimer les pièces en 3D de ce lien :
+https://www.thingiverse.com/thing:4056253/files
 
-	   *Commander le kit cité précédement
+  * Commander le kit cité précédement
 	   
-	   *Suivre les instruction de cette vidéo :
-	   https://www.youtube.com/watch?v=CXoVSTgzyec
+  *Suivre les instruction de cette vidéo :
+https://www.youtube.com/watch?v=CXoVSTgzyec
 
 
-II - Détail de l'expérience
-===========================
+# II - Détail de l'expérience
 
-   1)
+
+## 1)
      
