@@ -29,8 +29,7 @@ https://www.thingiverse.com/thing:4056253/files
 
   * Commander le kit cité précédement
 	   
-  *Suivre les instruction de cette vidéo :
-https://www.youtube.com/watch?v=CXoVSTgzyec
+  *Suivre les instruction de cette [vidéo](https://www.youtube.com/watch?v=CXoVSTgzyec)
 
 
 # II - Détail de l'expérience
