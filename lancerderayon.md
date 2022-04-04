@@ -52,7 +52,15 @@ def unitaire(v):
   vecteur directeur de (AB) : elle retourne donc le rayon d'origine *A* et 
   passant par *B*
   
-  
+
+#### Q6: *Écrire une fonction d'entête*
+
+```
+def sp(A,b):
+	return (A, norme(vec(A,B)))
+```
+
+
   
   
 
