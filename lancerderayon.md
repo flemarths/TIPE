@@ -40,8 +40,7 @@ def unitaire(v):
 	return (1/norme(v))*v
 ```
 
-#### Q5: *Écrire une fonction d'entête*
-
+#### Q5: *Que font les fonctions* **pt**, **dir** *et* **ra** *ci-dessous ?*
 
 
 
